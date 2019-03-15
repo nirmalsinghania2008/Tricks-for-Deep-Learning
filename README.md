@@ -1,4 +1,4 @@
-# Tricks(Pseduo-Science)-for-Deep-Learning
+# Pseduo-Science for Deep Learning
 This Repo contains articles and posts about successfully training and debugging deep neural nets.
 
 1. http://josh-tobin.com/troubleshooting-deep-neural-networks
